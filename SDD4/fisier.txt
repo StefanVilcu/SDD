@@ -1,0 +1,8 @@
+7
+16 12 1991 2 3.4 Instagram
+28 12 2001 3 2.2 LinkedIN
+23 03 1985 1 1.8 Facebook 
+08 05 1925 4 2.5 Whatsapp
+05 06 1872 5 2.7 Glovo
+09 08 1452 6 3.2 FlappyDuck
+05 08 2024 3 5.2 Mero
